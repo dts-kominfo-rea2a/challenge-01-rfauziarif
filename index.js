@@ -18,3 +18,5 @@ main();
 module.exports = {
     users
 };
+
+console.log ("saya harus banyak belajar lagi dengan javasript banyak yang belum dipahami haru mengulang ngulang videonya ")
